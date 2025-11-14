@@ -1,0 +1,27 @@
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Entornos y dependencias
+node_modules/
+venv/
+env/
+.venv/
+
+# Construcciones
+dist/
+build/
+.next/
+out/
+
+# Herramientas
+.idea/
+.vscode/
+
+# Archivos locales
+*.env
+.cache/
+
